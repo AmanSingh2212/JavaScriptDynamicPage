@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#container{
+    margin-left:40px;
+    /* width: 25%; */
+}
+
+#score{
+    width:157px;
+}
+
+button{
+    width: 150px;
+    height:40px;
+}
